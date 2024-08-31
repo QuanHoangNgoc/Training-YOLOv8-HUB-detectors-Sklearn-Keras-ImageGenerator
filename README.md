@@ -24,10 +24,10 @@ This repository is perfect for:
 2. **Custom Image Classifier:** Build and evaluate a custom classifier using MobileNetV2 to classify images into multiple categories.
 3. **Visualizations:** Real-time training metrics, mAP scores, confusion matrices, and prediction probability plots for easy analysis.
 4. **Kaggle Notebooks**: 
-[Guideline: Image-Multi-Classification with SVC-KNN](https://www.kaggle.com/code/quanhoangngoc/guideline-image-multi-classification-with-svc-knn/notebook)
-[Image-Multi-Classification: GPU Keras Generator](https://www.kaggle.com/code/quanhoangngoc/image-multi-classification-gpu-keras-generator)
-[Demo: Object-Detector using Hub](https://www.kaggle.com/code/quanhoangngoc/demo-object-detector-using-hub)
-[Customize-YoloV8: How to use?](https://www.kaggle.com/code/quanhoangngoc/customize-yolov8-how-to-use)
+- [Guideline: Image-Multi-Classification with SVC-KNN](https://www.kaggle.com/code/quanhoangngoc/guideline-image-multi-classification-with-svc-knn/notebook)
+- [Image-Multi-Classification: GPU Keras Generator](https://www.kaggle.com/code/quanhoangngoc/image-multi-classification-gpu-keras-generator)
+- [Demo: Object-Detector using Hub](https://www.kaggle.com/code/quanhoangngoc/demo-object-detector-using-hub)
+- [Customize-YoloV8: How to use?](https://www.kaggle.com/code/quanhoangngoc/customize-yolov8-how-to-use)
 
 ## ⚙️ How did we do it?
 
